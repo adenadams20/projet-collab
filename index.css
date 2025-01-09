@@ -30,3 +30,46 @@ img
     width: 350px;
     height: 200px;
 }
+nav{
+    text-decoration: none;
+    border: solid;
+    display: flex;
+
+}
+
+nav li {
+    text-decoration: none;
+    display: block;
+    
+}
+a
+{
+    text-decoration: none;
+    color: black;
+    margin-right: 5px;
+
+}
+ul
+{
+    text-decoration: none;
+}
+
+li
+{
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    border: solid 1px;
+    padding: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: grey;
+}
+footer
+{
+    border: solid 1Px;
+    text-align: center;
+    background-color: gray;
+
+}
